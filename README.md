@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JovanPaunovic
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: paunovic.jovani3@gmail.com
 
 <!---
